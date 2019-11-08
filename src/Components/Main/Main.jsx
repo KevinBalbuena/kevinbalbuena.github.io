@@ -10,10 +10,12 @@ class Main extends Component {
             <span className="heading-primary-main">Kevin Balbuena</span>
             <span className="heading-primary-sub">Full Stack Developer</span>
             <span className="icon">
-              <a className="link-tag" href="https://github.com/KevinBalbuena">
-                <i className="white fab fa-github"></i>
+              <a href="https://github.com/KevinBalbuena">
+                <i className="icon-white fab fa-github"></i>
               </a>
-              <i className="white fab fa-linkedin"></i>
+              <a href="https://www.linkedin.com/in/kevin-balbuena/">
+                <i className="icon-white fab fa-linkedin"></i>
+              </a>
             </span>
           </h1>
         </div>
